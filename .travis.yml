@@ -1,5 +1,4 @@
 language: c
-sudo: required
 cache:
     directories:
         - $HOME/libpsl-0.20.1
